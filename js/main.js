@@ -1,5 +1,5 @@
-import * as THREE from 'https://github.com/1DaveBoy/3_5/src/three.module.js';
-import {PointerLockControls} from 'https://github.com/1DaveBoy/3_5/src/PointerLockControls.js'
+import * as THREE from 'https://1daveboy.github.io/3_5/src/three.module.js';
+import {PointerLockControls} from 'https://1daveboy.github.io/3_5/src/PointerLockControls.js'
 
 let camera, scene, renderer, pControl
 let xdir = 0, zdir = 0
